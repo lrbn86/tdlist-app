@@ -1,5 +1,5 @@
 import './App.css';
-import { TdlistsContainer } from "./TdlistsContainer";
+import TdlistsContainer from './TdlistsContainer';
 
 function App() {
   return (
